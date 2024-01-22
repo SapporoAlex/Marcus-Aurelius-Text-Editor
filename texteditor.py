@@ -47,7 +47,7 @@ def insert_prewritten_text(text_edit):
 
 def main():
     window = tk.Tk()
-    window.title("Alex's Text Editor")
+    window.title("MarcusWord")
     window.rowconfigure(0, minsize=400)
     window.columnconfigure(1, minsize=500)
 
