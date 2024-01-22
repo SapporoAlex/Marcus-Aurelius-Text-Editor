@@ -42,7 +42,7 @@ def save_file(window, text_edit):
 
 
 def insert_prewritten_text(text_edit):
-    prewritten_text = marcus_aurelius_quotes[rd.randint(0, 6)]
+    prewritten_text = marcus_aurelius_quotes[rd.randint(0, 5)]
     text_edit.insert(tk.END, prewritten_text)
 
 
