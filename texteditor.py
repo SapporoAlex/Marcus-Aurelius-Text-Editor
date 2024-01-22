@@ -1,4 +1,3 @@
-import tkinter
 import tkinter as tk
 from tkinter.filedialog import askopenfilename, asksaveasfilename
 import random as rd
